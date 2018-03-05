@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quizzer</string>
+    <string name="question_1">What is the name of the IBM computer that eventually controversially beat chess genius Gary Kasparov in a rematch in 1997?</string>
+    <string name="question2">Which Apollo mission landed the first humans on the Moon?</string>
+    <string-array name="question2_answers">
+        <item>Apollo 7</item>
+        <item>Apollo 9</item>
+        <item>Apollo 11</item>
+        <item>Apollo 13</item>
+    </string-array>
+    <string name="question3">The reactor at the site of the Chernobyl nuclear disaster is now in which country?</string>
+    <string-array name="question3_answers">
+        <item>Ukraine</item>
+        <item>Slovakia</item>
+        <item>Hungary</item>
+        <item>Russia</item>
+    </string-array>
+    <string name="question4">What is the national currency of the Netherlands?</string>
+    <string-array name="question4_answers">
+        <item>Euro</item>
+        <item>United States Dollar</item>
+        <item>Dutch guilder</item>
+        <item>Dinar</item>
+        <item>Pound</item>
+    </string-array>
+    <string name="finish_text">Check Answers</string>
+</resources>
